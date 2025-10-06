@@ -1,0 +1,2 @@
+Simple calculator
+Only Java
